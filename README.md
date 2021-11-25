@@ -1,9 +1,5 @@
-HELLO MOTHERFATHERSz
+HELLO MOTHERFATHERS
 Eren
 Armin
 Mikasa
-<<<<<<< HEAD
 Jean
-=======
-Jeangit
->>>>>>> bugfix
